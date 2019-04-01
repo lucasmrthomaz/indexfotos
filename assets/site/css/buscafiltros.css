@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+
+#eventos{
+	width:100%;
+	height:44px;	
+	}
+	
+	
+.eventos{
+	padding:5px;
+	text-align:right;
+	
+	}
+	
+	
+.imgeventos{
+	padding:5px;
+	text-align:right;
+	
+	
+	}		
+	
+#cidade{
+	width:100%;
+	height:44px;
+	
+	
+	}
+
+.cidade{
+	padding:5px;
+	text-align:right;
+	
+	}
+	
+	
+.imgcidade{
+	padding:5px;
+	text-align: right;
+	
+	}
+	
+	
+#filtros{
+	width:100%;
+	height:44px;
+	
+	}
+	
+	
+.flitros{
+	padding:5px;
+	text-align:right;
+	width:50px;
+	
+	}
+	
+	
+.imgfoltos{
+	padding:5px;
+	text-align:right;
+	width:50px;
+	}		
+	
+.tbbordir
+{
+	border-right-color:#F00;
+	border-right-style:solid;
+	border-right-width:3px;
+	
+}	
+	
+#de{
+	display:block;
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100px;
+	
+	
+	
+	
+	}
+	
+	
+#ate{
+	
+	
+	}	
+	
+	
+	
+
+input[type="date"]::-webkit-clear-button {
+    display: none;
+}
+
+
+input[type="date"]::-webkit-inner-spin-button { 
+    display: none;
+}
+
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+	background-color: transparent;
+    color: #F00;
+}
+
+
+input[type="date"] {
+    appearance: none;
+    -webkit-appearance: none;
+	-ms-appearance: none;
+    color: #F00 ;
+    font-family: "Helvetica", arial, sans-serif;
+    font-size: 16px;
+    border:0px  ;
+    background: ;
+    padding:5px;
+    display: inline-block !important;
+    visibility: visible !important;
+	width:40%;
+	height:30px;
+}
+
+input[type="date"], focus {
+	border-color:transparent;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+}
+
+input:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	

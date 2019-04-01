@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* inicio do css do menu Hanburguer   */
+	*,
+	*:before
+	*:after{
+		margin: 0;
+		padding: 0;
+		box-sizing: box-border;
+		}
+		
+	body{
+	
+}
+
+#menuhanburger{
+	width:60px;
+	height:60px;
+	background-color: ;
+	position:fixed;
+	top: 20px;
+	right: 16%;
+	cursor:pointer;
+	box-shadow: 0 0 0 0 transparent, 0 0 0 0 transparent;
+	transition:box-shadow 1.1s cubic-bezier(0.19, 0.22, 0.19, 1);
+	z-index:10000000000000000000;
+	}
+	
+	
+.menu:hover{
+	box-shadow: 0 0 0 8px transparent, 0 0 0 8px transparent;
+	
+	}
+
+input:checked ~ label .menu{
+	box-shadow: 0 0 0 100vw transparent,0 0 0 100vh transparent;
+	}
+
+	
+	
+	
+.ham{
+position:relative;
+display:block;
+background: #FFF;
+width:30px;
+height:5px;
+top:29px;
+left:15px;
+transition: 1s ease-in-out;
+}
+
+.ham:before,
+.ham:after{
+	background: #FFF;
+	content: '';
+	display:block;
+	width:100%;
+	height:100%;
+	position:absolute;
+	transition: 1s ease-in-out;
+	
+	
+	
+	}
+	
+	.ham:before{
+	top:-10px;
+	}
+	
+
+.ham:after{
+bottom:-10px;
+
+}
+
+input{
+	display:none;
+}
+	
+input:checked ~ label .ham {
+    transform: rotate(45deg);
+}
+
+input:checked ~ label .ham:before {
+    transform: rotate(90deg);
+    top: 0;
+    }
+    
+    input:checked ~ label .ham:after {
+    transform: rotate(90deg);
+    bottom: 0;
+}
+
+
+input:checked ~ ul{
+	opacity: 1;
+} 
+
+ul{
+	position:absolute;
+	top: 120px;
+	right: 25px;
+	transform: translate (-50%,-50%);
+	list-style:none;
+	opacity: 0;
+	transition: .20s .7s cubic-bezier(0, 1.07, 0, 1.02);
+	
+
+	}
+
+/* fim do css do menu Hanburguer   */ 
+
+/* fim do css do menu Hanburguer   */ 

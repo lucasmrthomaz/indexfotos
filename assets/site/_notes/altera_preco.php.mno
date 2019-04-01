@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_DetailRS1" value="name:id;datatype:int,name:id_evento;datatype:int,name:nome_do_evento;datatype:string,name:tipo_de_ingresso;datatype:string,name:valor_ingresso;datatype:real,name:valor_taxa;datatype:real,name:data_hora;datatype:timestamp,name:data_limite_de_venda;datatype:string" />
+	<infoitem key="UD_LiveData_params" value="1" />
+	<infoitem key="UD_LiveData_param0" value="recordID=1" />
+	<infoitem key="UD_DetailRS2" value="name:id;datatype:int,name:id_evento;datatype:int,name:nome_do_evento;datatype:string,name:tipo_de_ingresso;datatype:string,name:valor_ingresso;datatype:real,name:valor_taxa;datatype:real,name:data_hora;datatype:timestamp,name:data_limite_de_venda;datatype:string" />
+</info>

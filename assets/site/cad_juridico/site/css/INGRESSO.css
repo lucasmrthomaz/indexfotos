@@ -1,0 +1,230 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+
+#ingresso1{
+	display: block;
+	position: sticky;
+	margin-top:468px;
+	left:1300px;
+	width:350px;
+	height:30px;
+	top:80px;
+	z-index:100000;
+	background-color:#F00;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-left:#FFF solid;
+	border-right:#FFF solid;
+	border-top:#FFF solid;
+
+
+	
+	
+	
+	}
+	
+	#ingresso2{
+	display: block;
+	position: sticky;
+	top:112px;
+	margin-top:500px;
+	left:1300px;
+	width:350px;
+	height:370px;
+	z-index:100000;
+	background-color:#FFF;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	border-left:#F00 solid;
+	border-right:#F00 solid;
+	border-bottom:#F00 solid;
+
+	
+	}
+
+
+	
+	
+#btcompra{
+	display:block;
+	position:sticky;
+	background-color:#F00;
+	text-align:center;
+	width:auto;
+	border-radius:10px;
+	left:20px;
+	right:20px;
+	bottom:0px;
+	height:50px;
+	text-justify:auto;
+	cursor:pointer;
+	top:370;
+	margin-top:800;
+	
+	
+	
+	}
+
+#compra{
+	
+	display:block;
+	position:sticky;
+	background-color:;
+	text-align:center;
+	width:88%;
+	border-radius:10px;
+	height:50px;
+	text-justify:auto;
+	float:left;
+	margin-left:20px;
+	margin-right:20px;
+	top:370;
+	margin-top:800;
+	
+	
+	}	
+	
+	
+	
+			
+		
+    .soma {
+	font-size: 18px;
+	color: #000;
+}
+
+
+#contador{
+	display: block;
+	position: relative;
+	border: solid;
+	border-color:#F00;
+	border-width:2px;
+	border-radius:20px;
+	height:25px;
+	width:80px;
+
+
+	
+	
+	
+	
+	}
+
+#soma{
+	display:block;
+	position:absolute;
+	top:2px;
+	right:2px;
+	border: ;
+	border-color:#F00;
+	border-width:1px;
+	border-radius:10px;
+	height:20px;
+	width:20px;
+	}
+	
+	
+	#numero{
+	display:block;
+	position:absolute;
+	top:0px;
+	left:30px;
+	border: ;
+	border-color:#F00;
+	border-width:1px;
+	border-radius:10px;
+	height:20px;
+	width:20px;
+	}
+
+#sub{
+	display:block;
+	position:absolute;
+	top:2px;
+	left:2px;
+	border: ;
+	border-color:#F00;
+	border-width:1px;
+	border-radius:10px;
+	height:20px;
+	width:20px;
+	}
+
+
+
+		
+    .somam {
+	font-size: 18px;
+	color: #000;
+}
+
+
+#contadorm{
+	display:block;
+	position: relative;
+	border: solid;
+	border-color:#F00;
+	border-width:2px;
+	border-radius:20px;
+	height:25px;
+	width:80px;
+	
+	
+	
+	
+	}
+
+#somam{
+	display:block;
+	position:absolute;
+	top:2px;
+	right:2px;
+	border: ;
+	border-color:#F00;
+	border-width:1px;
+	border-radius:10px;
+	height:20px;
+	width:20px;
+	}
+	
+	
+	#numerom{
+	display:block;
+	position:absolute;
+	top:2px;
+	border: ;
+	border-color:#F00;
+	border-width:1px;
+	border-radius:10px;
+	height:20px;
+	width:20px;
+	}
+
+#subm{
+	display:block;
+	position:absolute;
+	top:2px;
+	left:2px;
+	border: ;
+	border-color:#F00;
+	border-width:1px;
+	border-radius:10px;
+	height:20px;
+	width:20px;
+	}
+	
+	
+	#calculo{
+	display:block;
+	position:absolute;
+	top:0px;
+	background-color:#0FF;
+	
+	
+	}

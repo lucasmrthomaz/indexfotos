@@ -1,0 +1,400 @@
+@charset "utf-8";
+
+
+@import url("OpenSans ExtraBold/stylesheet.css");
+@import url("OpenSans_BoldItalic/stylesheet.css");
+@import url("OpenSans_ExtraBold/stylesheet.css");
+@import url("OpenSans_LightItalic/stylesheet.css");
+@import url("webfonts/OpenSans_Light/stylesheet.css");
+
+
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.container.imagem{
+    width: 100%;
+    min-height: 220px;
+    background-size: cover;
+    background-position: center;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+}
+
+	
+	
+	
+
+#card{
+	display: inline-block;
+	top: 0px;
+	width: 90%;
+	min-width: 300px;
+	border: solid #F00;
+	margin: 10px 20px 50px 20px;
+	height: 440px;
+	border-width:1px;
+	border-radius:10px;
+	-webkit-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	-moz-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	-ms-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	z-index:0;
+	cursor:pointer;
+	transition: 1s ease-in-out;
+	background-color:;
+	
+	
+	
+	}
+
+
+
+titulo {
+	font-family: "OpenSans ExtraBold";
+
+}
+.categorias {
+	font-family: "OpenSans Light";
+}
+.local {
+	font-family: "OpenSans Light";
+	font-size: 14px;
+	
+	}
+	
+.local2 {
+	font-family: "OpenSans ExtraBold";
+	font-size: 16px;	
+	}
+	
+
+shows {
+	font-family: "OpenSans ExtraBold";
+}
+
+/* CSS Document */
+
+
+@media (min-width: 1375px), print {
+	
+@charset "utf-8";
+
+
+@import url("OpenSans ExtraBold/stylesheet.css");
+@import url("OpenSans_BoldItalic/stylesheet.css");
+@import url("OpenSans_ExtraBold/stylesheet.css");
+@import url("OpenSans_LightItalic/stylesheet.css");
+@import url("webfonts/OpenSans_Light/stylesheet.css");
+
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.container.imagem{
+    width: 100%;
+    min-height: 220px;
+    background-image: url('../images/tales.png');
+    background-size: cover;
+    background-position: center;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+}
+
+
+#card{
+	display: inline-block;
+	top: 0px;
+	width: 29%;
+	min-width:200px;
+	max-width:45%;
+	border: solid #F00;
+	margin: 10px 20px 50px 20px;
+	height: 440px;
+	border-width:1px;
+	border-radius:10px;
+	-webkit-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	-moz-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	-ms-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	z-index:0;
+	cursor:pointer;
+	transition: 1s ease-in-out;
+	background-color: ;
+	
+	
+	
+	}
+
+
+
+titulo {
+	font-family: "OpenSans ExtraBold";
+
+}
+.categorias {
+	font-family: "OpenSans Light";
+}
+.local {
+	font-family: "OpenSans Light";
+	font-size: 14px;
+	
+	}
+	
+.local2 {
+	font-family: "OpenSans ExtraBold";
+	font-size: 16px;	
+	}
+	
+
+shows {
+	font-family: "OpenSans ExtraBold";
+}
+}
+@media (min-width: 901px) and (max-width: 1374px){
+
+@charset "utf-8";
+
+
+@import url("OpenSans ExtraBold/stylesheet.css");
+@import url("OpenSans_BoldItalic/stylesheet.css");
+@import url("OpenSans_ExtraBold/stylesheet.css");
+@import url("OpenSans_LightItalic/stylesheet.css");
+@import url("webfonts/OpenSans_Light/stylesheet.css");
+
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.container.imagem{
+    width: 100%;
+    min-height: 220px;
+    background-image: url('../images/tales.png');
+    background-size: cover;
+    background-position: center;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+}
+
+
+#card{
+	display: inline-block;
+	top: 0px;
+	width: 45%;
+	min-width:200px;
+	max-width:45%;
+	border: solid #F00;
+	margin: 10px 20px 50px 20px;
+	height: 440px;
+	border-width:1px;
+	border-radius:10px;
+	-webkit-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	-moz-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	-ms-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	z-index:0;
+	cursor:pointer;
+	transition: 1s ease-in-out;
+	background-color: ;
+	
+	
+	
+	}
+
+
+
+
+titulo {
+	font-family: "OpenSans ExtraBold";
+
+}
+.categorias {
+	font-family: "OpenSans Light";
+}
+.local {
+	font-family: "OpenSans Light";
+	font-size: 14px;
+	
+	}
+	
+.local2 {
+	font-family: "OpenSans ExtraBold";
+	font-size: 16px;	
+	}
+	
+
+shows {
+	font-family: "OpenSans ExtraBold";
+}
+
+/* CSS Document */
+
+}
+@media (min-width: 720px) and (max-width: 900px){
+	
+@charset "utf-8";
+
+
+@import url("OpenSans ExtraBold/stylesheet.css");
+@import url("OpenSans_BoldItalic/stylesheet.css");
+@import url("OpenSans_ExtraBold/stylesheet.css");
+@import url("OpenSans_LightItalic/stylesheet.css");
+@import url("webfonts/OpenSans_Light/stylesheet.css");
+
+
+
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.container.imagem{
+    width: 100%;
+    min-height: 220px;
+    background-image: url('../images/tales.png');
+    background-size: cover;
+    background-position: center;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+}
+
+#card{
+	display: inline-block;
+	top: 0px;
+	width: 45%;
+	border: solid #F00;
+	margin: 10px 20px 50px 20px;
+	height: 440px;
+	border-width:1px;
+	border-radius:10px;
+	-webkit-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	-moz-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	-ms-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	z-index:0;
+	cursor:pointer;
+	transition: 1s ease-in-out;
+	background-color: ;
+	
+	
+	
+	}
+
+
+
+titulo {
+	font-family: "OpenSans ExtraBold";
+
+}
+.categorias {
+	font-family: "OpenSans Light";
+}
+.local {
+	font-family: "OpenSans Light";
+	font-size: 14px;
+	
+	}
+	
+.local2 {
+	font-family: "OpenSans ExtraBold";
+	font-size: 16px;	
+	}
+	
+
+shows {
+	font-family: "OpenSans ExtraBold";
+}
+
+
+
+@media (min-width: 719px) {
+	@charset "utf-8";
+
+
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.container.imagem{
+    width: 100%;
+    min-height: 220px;
+    background-image: url('../images/tales.png');
+    background-size: cover;
+    background-position: center;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+}
+
+
+@import url("OpenSans ExtraBold/stylesheet.css");
+@import url("OpenSans_BoldItalic/stylesheet.css");
+@import url("OpenSans_ExtraBold/stylesheet.css");
+@import url("OpenSans_LightItalic/stylesheet.css");
+@import url("webfonts/OpenSans_Light/stylesheet.css");
+
+
+
+	
+
+#card{
+	display: inline-block;
+	top: 0px;
+	width: 45%;
+	min-width: 300px;
+	border: solid #F00;
+	margin: 10px 20px 50px 20px;
+	height: 440px;
+	border-width:1px;
+	border-radius:10px;
+	-webkit-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	-moz-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	-ms-box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.18);
+	z-index:0;
+	cursor:pointer;
+	transition: 1s ease-in-out;
+	background-color: ;
+	
+	
+	
+	}
+
+
+
+titulo {
+	font-family: "OpenSans ExtraBold";
+
+}
+.categorias {
+	font-family: "OpenSans Light";
+}
+.local {
+	font-family: "OpenSans Light";
+	font-size: 14px;
+	
+	}
+	
+.local2 {
+	font-family: "OpenSans ExtraBold";
+	font-size: 16px;	
+	}
+	
+
+shows {
+	font-family: "OpenSans ExtraBold";
+}
+}

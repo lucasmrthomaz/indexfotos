@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:nome_do_evento;datatype:string,name:foto_banner;datatype:blob,name:foto_aside_direita;datatype:blob,name:foto_aside_esquerda;datatype:blob,name:data_do_evento_inicio_dia;datatype:int,name:data_do_evento_inicio_mes;datatype:int,name:data_do_evento_inicio_ano;datatype:int,name:data_do_evento _termino_dia;datatype:int,name:data_do_evento _termino_mes;datatype:int,name:data_do_evento _termino_ano;datatype:int,name:hora_de_inicio;datatype:time,name:hora_de_fim;datatype:time,name:categoria_do_evento;datatype:blob,name:local_do_evento;datatype:blob,name:bairro_cidade_do_evento;datatype:blob,name:cadeirante;datatype:blob,name:data_hora;datatype:timestamp,name:descricao;datatype:blob,name:cnpj;datatype:string,name:produtor;datatype:blob,name:responsavel;datatype:blob" />
+</info>

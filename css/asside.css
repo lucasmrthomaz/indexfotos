@@ -1,0 +1,144 @@
+@media (min-width: 1200px), print {
+
+
+#esquerda 
+	{
+		position:fixed;
+		display:flex;
+		top:80px;
+		left:0px;
+		width:170px;
+		height:930px;		
+		background-color:#CCC;
+		transition: .5s ease-in-out;
+		
+		
+		}
+	
+	#direita
+	{
+		position:fixed;
+		display:flex;
+		top:80px;
+		right:0px;
+		width:170px;
+		height:930px;	
+		background-color:#CCC;
+		transition: .5s ease-in-out;
+		
+		
+		}
+
+
+
+
+
+}
+
+
+@media (min-width: 750px) and (max-width: 1199px){
+
+
+
+
+
+	
+	#esquerda 
+	{
+		position:fixed;
+		display:flex;
+		top:220px;
+		left:-220px;
+		width:180px;
+		height:820px;		
+		background-color:#CCC;
+		transition: .5s ease-in-out;
+		
+		
+		}
+	
+	#direita
+	{
+		position:fixed;
+		display:flex;
+		top:220px;
+		right:-220px;
+		width:180px;
+		height:820px;		
+		background-color:#CCC;
+		transition: .5s ease-in-out;
+		
+		
+		}
+		
+
+
+}
+
+
+@media (min-width: 530px) and (max-width: 749px){
+	
+	
+
+
+	#esquerda 
+	{
+		position:fixed;
+		display:flex;
+		top:220px;
+		left:-220px;
+		width:180px;
+		height:820px;		
+		background-color:#CCC;
+		transition: .5s ease-in-out;
+		
+		
+		}
+	
+	#direita
+	{
+		position:fixed;
+		display:flex;
+		top:220px;
+		right:-220px;
+		width:180px;
+		height:820px;		
+		background-color:#CCC;
+		transition: .5s ease-in-out;
+		
+		
+		}
+}
+		
+@media (max-width: 529px){
+		
+		
+		
+	#esquerda 
+	{
+		position:fixed;
+		display:flex;
+		top:220px;
+		left:-220px;
+		width:180px;
+		height:820px;		
+		background-color:#CCC;
+		transition: .5s ease-in-out;
+		
+		
+		}
+	
+	#direita
+	{
+		position:fixed;
+		display:flex;
+		top:220px;
+		right:-220px;
+		width:180px;
+		height:820px;		
+		background-color:#CCC;
+		transition: .5s ease-in-out;
+		
+		
+		}
+}
